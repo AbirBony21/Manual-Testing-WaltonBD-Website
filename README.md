@@ -112,8 +112,8 @@ The goal of this testing initiative was to identify and document bugs, assess th
 ### Clone the Repository  
 
 ```bash  
-git clone [https://github.com/<your-username>/<your-repository-name>.git](https://github.com/AbirBony21/Manual-Testing-WaltonBD-Website.git)  
-cd <your-repository-name>  
+git clone https://github.com/AbirBony21/Manual-Testing-WaltonBD-Website.git 
+cd Manual-Testing-WaltonBD-Website  
 ```
 ## OR
 
